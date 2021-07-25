@@ -53,3 +53,13 @@
 // console.log("country" in obj); 
 
 //Question#04
+// function Area(name,gender,address,education,profession)
+// {
+//     this.name=name;
+//     this.gender=gender;
+//     this.address=address;
+//     this.education=education;
+//     this.profession=profession;
+// }
+// var recorde1= new Area("Qasim","male","la pata","asasa","programmer");
+// console.log(recorde1)
